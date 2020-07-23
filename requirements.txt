@@ -23,7 +23,7 @@ spotipy==2.13.0
 SQLAlchemy==1.3.18
 text-unidecode==1.0
 torch==1.0.1
--e git+https://github.com/huggingface/torchMoji@198f7d4e0711a7d3cd01968812af0121c54477f8#egg=torchmoji
+-e git+https://github.com/sarangpurandare/mojifire.git@c88bc40431a8e48a4ce71d0afd56036d94459164#egg=torchmoji&subdirectory=torchMoji
 urllib3==1.25.9
 uWSGI==2.0.19.1
 Werkzeug==1.0.1
