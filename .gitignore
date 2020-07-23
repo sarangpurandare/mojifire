@@ -96,8 +96,6 @@ sadenv/
 ENV/
 env.bak/
 venv.bak/
-torchMoji/
-
 # Spyder project settings
 .spyderproject
 .spyproject
